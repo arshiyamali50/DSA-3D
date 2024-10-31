@@ -1,0 +1,6 @@
+
+BEGIN PROGRAM
+INPUT num1, num2 FROM USER
+CALCULATE add = num1 + num2
+DISPLAY "Sum: " + add
+END PROGRAM 
