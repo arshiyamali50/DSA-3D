@@ -1,0 +1,48 @@
+
+
+*Merge Sort*
+
+Pros:
+
+1. Efficient for large datasets (O(n log n) time complexity)
+2. Stable sort (preserves original order of equal elements)
+3. Suitable for parallel processing
+
+Cons:
+
+1. Requires extra memory (O(n) space complexity)
+2. Complex implementation
+
+*Insertion Sort*
+
+Pros:
+
+1. Simple implementation
+2. Low overhead (O(1) space complexity)
+3. Efficient for small datasets (O(n) time complexity)
+
+Cons:
+
+1. Inefficient for large datasets (O(n^2) time complexity)
+2. Not suitable for parallel processing
+
+*Comparison Summary*
+
+| Criteria | Merge Sort | Insertion Sort |
+| --- | --- | --- |
+| Time Complexity | O(n log n) | O(n^2) |
+| Space Complexity | O(n) | O(1) |
+| Stability | Stable | Stable |
+| Parallelism | Suitable | Not suitable |
+| Complexity | Complex | Simple |
+
+Choose Merge Sort for:
+
+- Large datasets
+- Efficient sorting
+- Parallel processing
+
+Choose Insertion Sort for:
+
+- Small datasets
+- Simple implementation
