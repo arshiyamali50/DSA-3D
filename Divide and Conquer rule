@@ -1,0 +1,36 @@
+The Divide and Conquer rule is a problem-solving strategy that breaks down complex problems into smaller, manageable sub-problems, solving each sub-problem recursively, and then combining the solutions to solve the original problem.
+
+*Key Steps:*
+
+1. Divide: Break down the problem into smaller sub-problems.
+2. Conquer: Solve each sub-problem recursively.
+3. Combine: Merge the solutions to sub-problems to solve the original problem.
+
+*Principles:*
+
+1. Problem division: Divide the problem into independent sub-problems.
+2. Recursive solving: Solve each sub-problem using the same approach.
+3. Solution combination: Combine sub-problem solutions to solve the original problem.
+
+*Examples:*
+
+1. Merge Sort
+2. Binary Search
+3. Fast Fourier Transform (FFT)
+4. Closest Pair Algorithm
+5. Longest Common Subsequence
+
+*Benefits:*
+
+1. Efficient problem-solving
+2. Reduced computational complexity
+3. Improved scalability
+4. Simplified code
+
+*Common Applications:*
+
+1. Sorting and searching
+2. Graph algorithms
+3. Dynamic programming
+4. Computational geometry
+5. Data compression
